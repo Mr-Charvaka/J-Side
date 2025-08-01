@@ -1,11 +1,1 @@
-'Aman'
-
-
-
-
-
-
-
-
-
-
+console.log('Zero')
