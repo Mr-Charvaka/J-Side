@@ -1,4 +1,1 @@
-elosnoforlet110
-33
-}
-c
+gol.eloosnoc
