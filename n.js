@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>JavaScript Expressions</h2>
-
-<p>Expressions compute to values.</p>
-
-<p id="demo"></p>
-
-<script>
-document.getElementById("demo").innerHTML = "John" + " "  + "Doe";
-</script>
-
-</body>
-</html>
+// Multiplication table of 3
+for (let i = 1; i <= 10; i++) {
+    console.log(`3 x ${i} = ${3 * i}`);
+}
