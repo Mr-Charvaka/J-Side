@@ -1,10 +1,1 @@
-'Aman'
-
-
-
-
-
-
-
-
-
+console.log('Aman');
