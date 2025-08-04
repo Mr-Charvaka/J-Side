@@ -1,2 +1,2 @@
-const a= input('What is your name?');
-console.log(a)
+    const a = prompt('What is your name?');
+    console.log(a);
