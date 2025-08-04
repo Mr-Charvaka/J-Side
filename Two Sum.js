@@ -6,13 +6,9 @@ function twoSum(nums, target) {
             }
         }
     }
-    return []; // if no solution found
+    return []; 
 }
-
-// Default test case
 const nums = [2, 7, 11, 15];
 const target = 9;
-
-// Call and print result
 const result = twoSum(nums, target);
-console.log("Output:", result); // Expected: [0, 1]
+console.log("Output:", result); 
