@@ -1,5 +1,5 @@
 const twoSum = function(nums, target) {
-    const numMap = {}; // Or new Map()
+    const numMap = {}; 
     for (let i = 0; i < nums.length; i++) {
         const complement = target - nums[i];
         if (complement in numMap) { // Or numMap.has(complement) for a Map
@@ -7,3 +7,4 @@ const twoSum = function(nums, target) {
         }
         numMap[nums[i]] = i;
     }
+};
