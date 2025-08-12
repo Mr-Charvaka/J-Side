@@ -1,2 +1,2 @@
 var height=162;
-var 
+let cost
