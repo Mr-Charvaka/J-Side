@@ -1,2 +1,2 @@
-var height=162;
-let cost
+let height=162;
+ const 
