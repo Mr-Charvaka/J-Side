@@ -1,1 +1,2 @@
-const fs=readfile
+const fs= require("fs");
+readfile
