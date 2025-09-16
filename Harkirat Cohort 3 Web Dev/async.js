@@ -3,6 +3,7 @@ const fs= require("fs");
 fs.readfile("a.txt","utf-8",func(err,data)){
 console.log(data);
 }
+let a=0;
 console.log("Async");
 for(let i=0;i<1000000000000;i++){
 a++;
