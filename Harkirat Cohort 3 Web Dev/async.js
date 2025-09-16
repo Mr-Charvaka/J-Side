@@ -5,5 +5,5 @@ console.log(data);
 }
 
 console.log("Async");
-for (let i=0;i<n;i++){
+for (let i=0;i<1000000000000;i++){
 }
