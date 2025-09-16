@@ -1,2 +1,3 @@
 const fs= require("fs");
-readfile
+//file module// package // library
+fs.readfile=
