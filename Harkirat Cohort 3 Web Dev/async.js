@@ -8,4 +8,4 @@ console.log("Async");
 for (let i=0;i<1000000000000;i++){
 a++;
 }
-console.log ("Async calle"
+console.log ("Async called");
