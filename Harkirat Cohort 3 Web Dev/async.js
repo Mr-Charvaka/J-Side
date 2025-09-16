@@ -1,3 +1,4 @@
 const fs= require("fs");
 //file module// package // library
-fs.readfile=
+fs.readfile("a.txt","utf-8", (err, data)){
+console.log}
